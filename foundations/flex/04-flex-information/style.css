@@ -14,22 +14,15 @@ img {
   padding-bottom: 32px;
 }
 
-.info {
-  display: flex;
-  justify-content: center;
-  gap: 52px;
-}
-
-.barberry, .chili, .pepper, .saffron {
+.container {
  display: flex;
- flex-direction: column;
- align-items: center;
  justify-content: center;
 }
 
-.text {
+.info {
   max-width: 200px;
 }
+
 
 /* do not edit this footer */
 .footer {
